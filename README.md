@@ -1,13 +1,15 @@
 # go-admin-ui
 - 配置文档。具体文档可以看下面详细，也可以快速复制我的
 - 本地安装node（省略，最新即可）
-- 更换镜像源
+- 更换镜像源  
   npm config set registry https://registry.npm.taobao.org
-- npm 安装依赖
-cd go-admin-ui
+- npm 安装依赖  
+cd go-admin-ui  
 npm install 
 - 直接运行
 npm run  dev
+
+以上步骤即可。具体后期二开可参考下方文档。
 
 
 
