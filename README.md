@@ -1,4 +1,19 @@
 # go-admin-ui
+- 配置文档。具体文档可以看下面详细，也可以快速复制我的
+- 本地安装node（省略，最新即可）
+- 更换镜像源
+  npm config set registry https://registry.npm.taobao.org
+- npm 安装依赖
+cd go-admin-ui
+npm install 
+- 直接运行
+npm run  dev
+
+
+
+
+
+
 
 
 ![build](https://github.com/wenjianzhang/go-admin-ui/workflows/build/badge.svg?branch=master) ![MIT](https://img.shields.io/github/license/mashape/apistatus.svg)
